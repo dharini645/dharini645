@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Dharini
 
-<!--
-**dharini645/dharini645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student passionate about building websites and solving problems with code.
 
-Here are some ideas to get you started:
+🌱 Currently learning:  
+- Frontend Web Development (HTML, CSS, JavaScript)  
+- Python for problem-solving  
+- Version control with Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Projects I'm working on:  
+- A personal portfolio website  
+- Simple interactive web pages (blogs, to-do list apps)  
+- Beginner-level Python mini-projects
+
+📌 I'm looking to:  
+- Contribute to beginner-friendly open-source projects  
+- Collaborate with other learners and developers  
+- Improve my coding and design skills
+
+📫 You can reach me at:  
+- LinkedIn: www.linkedin.com/in/dharini-r-60647a264)  
+- Email: dharinirn64@gmail.com
+
+🧠 Fun Fact:  
+I love figuring things out on my own and sharing what I learn! 😄
+
+---
+
+🛠️ Tech Stack  
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
