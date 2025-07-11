@@ -32,5 +32,6 @@ I love figuring things out on my own and sharing what I learn! 😄
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
+
 ---
 
